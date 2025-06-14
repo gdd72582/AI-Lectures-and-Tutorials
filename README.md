@@ -2,10 +2,17 @@
 
 > Artificial Intelligence and Machine Learning Course (2025)
 
-This repository contains coursework and hands-on exercises completed during the 2025 Artificial Intelligence and Machine Learning lectures.  
-Each assignment includes both theoretical analysis and corresponding implementation in Python using modern ML libraries such as PyTorch and Scikit-learn.
+This repository contains assignments and exercises completed during a 2025 undergraduate course on Artificial Intelligence and Machine Learning.
 
-The assignments are categorized by topic and model type, covering fundamental to advanced topics including supervised learning, neural architectures (MLP, CNN), optimization techniques, and experimental comparisons of deep learning models.
+Each task focuses on building a solid understanding of core ML concepts through both theory and implementation.  
+Using libraries like PyTorch and Scikit-learn, topics range from basic classification to deep learning with CNNs.
+
+Assignments are organized by topic and model type, and include:
+- Data preprocessing and exploratory analysis  
+- Model training and evaluation  
+- Neural network architectures (MLP, CNN)  
+- Comparative experiments and performance analysis
+
 
 ## Assignments
 
@@ -79,10 +86,3 @@ ML Assignment 3: Binary Classification with CNN (Smoke Image Dataset)
 | Q5 | Architecture Optimization: Effects of Layers, Dropout, Optimizers, Learning Rate
 
 ---
-
-## Summary
-This repository summarizes coursework completed as part of an undergraduate AI and machine learning class in 2025.  
-Each assignment includes both conceptual understanding and basic implementation using Python and standard libraries such as Scikit-learn and PyTorch.
-
-The focus is on building foundational knowledge through small-scale experiments, applying core techniques such as data preprocessing, model training, and evaluation.  
-Assignments span from basic classification models to deeper architectures like CNNs, offering step-by-step experience with essential ML workflows.
