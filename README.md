@@ -105,13 +105,10 @@ ML Assignment 3: Binary Classification with CNN (Smoke Image Dataset)
 
 ### Coding and Experiment Design
 - **Importance of Softcoding**: Managing hyperparameters as variables for easy viewing and modification
-- **Modular Design**: Creating reusable functions and classes to minimize code duplication
-- **Model Save/Load**: Core technique that greatly improves experiment efficiency
 - **Importance of Pre-experiment Data Visualization**: Actively utilizing visualization (T-SNE, scatter plots, etc.) to understand data complexity
 
 ### Experiment Management and Documentation
 - **Google Sheets Utilization**: Systematic recording of experiment numbers, conditions, and notes for comparative analysis and reproducibility
-- **Preventing Experiment Duplication**: Establishing clear recording systems to avoid repeating identical experiments
 - **Ensuring Reliability**: Conducting 5+ experiments with different seeds and using average performance as final results
 - **Specific Numerical Expression**: Using precise numbers like "6.6% performance improvement" instead of vague terms like "good"
 
