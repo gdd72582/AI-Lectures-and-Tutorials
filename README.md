@@ -96,7 +96,6 @@ ML Assignment 3: Binary Classification with CNN (Smoke Image Dataset)
 | **Total Experiments** | 306 |
 | **Average Experiment Repetitions** | 5 times |
 | **Total Learning Time** | 160+ hours |
-| **Best Performance Achieved** | 99.22% (XGBoost, Assignment 3) |
 | **Models Experimented** | 20+ (CNN, MLP, Tree-based, SVM, etc.) |
 | **Datasets Used** | 6 (CIFAR-10, FashionMNIST, STL-10, Smoke, Student Performance, etc.) |
 
