@@ -101,7 +101,7 @@ ML Assignment 3: Binary Classification with CNN (Smoke Image Dataset)
 
 ---
 
-## Key Insights
+## ✨Key Insights✨
 
 ### Coding and Experiment Design
 - **Importance of Softcoding**: Managing hyperparameters as variables for easy viewing and modification
