@@ -16,7 +16,7 @@ Assignments are organized by topic and model type, and include:
 
 ## Assignments
 
-### Assignment 1
+### [Assignment 1](./assignment1/)
 
 Foundations of AI and Deep Learning
 
@@ -31,7 +31,7 @@ Foundations of AI and Deep Learning
 
 ---
 
-### Assignment 2
+### [Assignment 2](./assignment2/)
 
 CNN Architecture Experiments
 
@@ -45,7 +45,7 @@ CNN Architecture Experiments
 
 ---
 
-### Assignment 3
+### [Assignment 3](./assignment3/)
 
 ML Assignment 1: Binary Classification
 
@@ -59,7 +59,7 @@ ML Assignment 1: Binary Classification
 
 ---
 
-### Assignment 4
+### [Assignment 4](./assignment4/)
 
 ML Assignment 2: Image Classification using MLP
 
@@ -73,7 +73,7 @@ ML Assignment 2: Image Classification using MLP
 
 ---
 
-### Assignment 5
+### [Assignment 5](./assignment5/)
 
 ML Assignment 3: Binary Classification with CNN (Smoke Image Dataset)
 
